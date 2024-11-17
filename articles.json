@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Belajar Node.js untuk Pemula",
+        "content": "Node.js adalah runtime JavaScript yang memungkinkan kita untuk menjalankan JavaScript di server. Sangat cocok untuk aplikasi real-time."
+    },
+    {
+        "id": 2,
+        "title": "Apa itu Express.js?",
+        "content": "Express.js adalah framework web untuk Node.js yang membantu membuat API atau aplikasi web dengan cepat dan mudah."
+    },
+    {
+        "id": 3,
+        "title": "Mengenal REST API",
+        "content": "REST API adalah standar untuk komunikasi antara client dan server menggunakan protokol HTTP."
+    }
+]
